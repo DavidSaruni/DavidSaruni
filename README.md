@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidSaruni
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning at Kabarak University
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning at Kabarak University studying IT
 - 💞️ I’m looking to collaborate on being a developer
 - 📫 How to reach me - TEL: 0796789225
 
