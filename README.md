@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidSaruni
-- 👀 I’m interested in programming
+- 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning at Kabarak University studying IT
-- 💞️ I’m looking to collaborate with google and microsoft developement
+- 💞️ I’m looking to collaborate with Google, Microsoft and great Tech Companies
 - 📫 How to reach me - TEL: 0796789225
 
 <!---
