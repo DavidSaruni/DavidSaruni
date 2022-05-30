@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning at Kabarak University studying IT
 - 💞️ I’m looking to collaborate with Google, Microsoft and great Tech Companies
-- 📫 How to reach me - TEL: 0796789225
+- 📫 How to reach me - TEL: 0796789225 Email: sarunidavid11126@gmail.com
 
 <!---
 DavidSaruni/DavidSaruni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
