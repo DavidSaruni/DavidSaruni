@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidSaruni
 - 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently working on Mama's Hub - a maternal health web and mobile application
+- 🌱 I’m currently working on Mama's Hub - a maternal health web and a FHIR Native mobile application
 - 💞️ I’m looking to collaborate with Google, Microsoft and great Tech Companies
 - 📫 How to reach me - TEL: 0796789225 Email: sarunidavid11126@gmail.com
 
